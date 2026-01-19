@@ -1,6 +1,4 @@
-# Employee-Management-System
-A Java console-based Employee Management System using OOP and CRUD operations.
-
+# Employee Management System - Java
 
 ## Description
 The Employee Management System is a console-based Java application that allows users to manage employee records using Object-Oriented Programming principles. The system supports basic CRUD operations such as adding, viewing, updating, and deleting employee details using in-memory storage.
